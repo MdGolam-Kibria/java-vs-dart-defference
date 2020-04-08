@@ -1,8 +1,8 @@
 # java-vs-dart-defference
 
 Dart
-   *Dart doesn't support overloading.
    *Dart doesn't allows two costrucor make together.
+   * Dart doesn't support encapsulation.
    *Dart doesn't support arrays.this is possibe by collections like list,set,map etc.
    %%% if i don't have any default constructor then how to make this default class obect like  below fig 1.1
    or how to get an veriable or method using the class obect
